@@ -1,3 +1,5 @@
+## Creating Manhattan plots of the PrediXcan results for every tissue in each population (META and AFR) and each phenotype (chronotype and duration).
+
 #load libraries
 library(data.table)
 library(dplyr)
